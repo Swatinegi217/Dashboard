@@ -1,0 +1,42 @@
+Company ID,Company Name,Fund,Investment ($M),Fund Size ($M),Total Capital Committed ($B),Fund Investments,Global South Deals Funded,Global South Countries Supported,Country,Country Capital Catalyzed ($M),Theme,Theme Capital Catalyzed ($M),Total Emissions by Fund (tons of CO2e),Scope 1 Emissions (tons of CO2e),Scope 2 Emissions (tons of CO2e),Scope 3 Emissions (tons of CO2e)
+123aa323-877c-42f9-b3ea-93c817abea2b,CleanPower Ltd,Transformation Fund,7360,926,1.56,4,9,17,Indonesia,101,Ocean Conservation,469,8148,1358,2037,4074
+e55bcae9-9f51-456b-9ea6-93b89bb3ab10,EarthRenew Ltd,Rise Fund,6110,3100,1.79,10,7,18,South Africa,260,Carbon Capture,251,7373,1228,1843,3686
+0891e350-f82d-4268-a57d-9421ed8e0b96,HydroFlow Ltd,Orientation Fund,9380,636,1.8,9,7,11,Tanzania,63,Smart Grid,315,27919,4653,6979,13959
+bafa4edb-b738-47be-9d58-b53e84838376,HydroFlow Ltd,Infrastructure Fund,4470,4297,2.13,3,9,18,Brazil,244,Energy Efficiency,265,28349,4724,7087,14174
+d49c40ff-fad1-488d-bd14-f0ebff2ebaab,GreenFuture Ltd,Partnership Fund,1050,2583,1.81,5,10,20,Tanzania,163,Renewable Energy,163,6633,1105,1658,3316
+b6d17866-7043-48e8-8bcb-3fb741acb70d,GreenFuture Ltd,Transformation Fund,6630,1268,1.75,7,12,5,Nigeria,289,Water Management,486,25283,4213,6320,12641
+9d1943ac-10b6-4456-a686-7f6c997456dc,GreenFuture Ltd,Rise Fund,1200,3307,2.32,5,14,8,Kenya,241,Ocean Conservation,450,25270,4211,6317,12635
+49cbbdc9-ebf8-4d45-8cdc-baea488f8b06,EarthRenew Ltd,Orientation Fund,3210,3827,2.44,10,10,19,Tanzania,88,Energy Efficiency,381,16210,2701,4052,8105
+510d3de9-2fd0-4a52-9e6e-41c7c6d555c8,EarthRenew Ltd,Infrastructure Fund,5860,2050,1.78,9,13,16,Mexico,52,Sustainable Agriculture,400,17618,2936,4404,8809
+f79635ee-bac5-4c3d-9e95-384780b8864e,CleanPower Ltd,Partnership Fund,2960,1405,1.93,3,12,18,Tanzania,123,Water Management,469,20605,3434,5151,10302
+966dbadf-012d-4672-845f-49bd226f2f17,WindWorks Ltd,Transformation Fund,7050,3475,2.26,3,10,13,Nigeria,278,Electric Mobility,428,15044,2507,3761,7522
+404fc0e6-db08-4468-8c51-318081174721,WindWorks Ltd,Rise Fund,8710,1004,2.15,8,5,20,India,296,Renewable Energy,318,17451,2908,4362,8725
+f7497e8f-af5e-40fe-8416-5ae22d025d17,SolarWind Ltd,Orientation Fund,6090,1583,1.55,7,11,19,Tanzania,259,Water Management,119,19016,3169,4754,9508
+3108c988-bf0c-4ae2-b8a9-19cc9640195c,CarbonZero Ltd,Infrastructure Fund,2060,3147,2.48,10,9,9,Brazil,188,Renewable Energy,139,8037,1339,2009,4018
+e4859c6e-59dd-4b9c-a25c-bf8c23a3be81,CarbonZero Ltd,Partnership Fund,5100,1909,2.08,6,11,14,Tanzania,293,Ocean Conservation,453,21564,3594,5391,10782
+3725e6ab-14a4-4a1a-a6d7-2fa485e10d95,SolarWind Ltd,Transformation Fund,3490,4656,2.08,7,6,14,Nigeria,68,Carbon Capture,298,20467,3411,5116,10233
+8c35b373-2894-4008-8765-a09e09d3626d,SolarWind Ltd,Rise Fund,1090,3720,1.53,8,11,8,India,263,Carbon Capture,110,7616,1269,1904,3808
+eae2eba5-9872-4548-b2b3-dfba5f913381,GeoTherm Ltd,Orientation Fund,7150,1519,2.43,8,8,18,Kenya,234,Water Management,445,22090,3681,5522,11045
+e8c4a25b-cffe-4307-8fe9-255a49307bb8,HydroFlow Ltd,Infrastructure Fund,6890,785,1.87,10,13,16,Brazil,219,Renewable Energy,165,12110,2018,3027,6055
+a88ee9c3-44fb-4986-8499-53e66f46ff9d,EarthRenew Ltd,Partnership Fund,2600,4075,1.84,8,6,14,Kenya,224,Renewable Energy,224,23385,3897,5846,11692
+00def932-85d2-4112-a452-db4208514c09,CleanPower Ltd,Transformation Fund,5970,2215,1.53,3,12,8,Bangladesh,114,Electric Mobility,398,5260,876,1315,2630
+adf54208-1554-4aba-bfa7-f30cc2dd60df,CleanPower Ltd,Rise Fund,3990,4540,2.13,7,9,12,Nigeria,225,Energy Efficiency,396,28534,4755,7133,14267
+eebb872a-a6b1-4703-8463-2e260919d723,EcoTech Ltd,Orientation Fund,8670,4007,2.18,10,12,6,Indonesia,200,Sustainable Agriculture,363,9625,1604,2406,4812
+348c294c-a427-4831-8710-5df7f870e601,BioEnergy Ltd,Infrastructure Fund,3250,2322,2.42,4,13,13,Indonesia,282,Energy Efficiency,78,21812,3635,5453,10906
+7b9a851e-39fe-470c-8237-e96086a49fd9,CarbonZero Ltd,Partnership Fund,4910,2050,2.38,4,11,9,Kenya,236,Smart Grid,497,6226,1037,1556,3113
+70eecadb-818f-451d-8d18-f44e1e5146d9,SolarWind Ltd,Transformation Fund,6140,4083,2.02,8,7,20,Nigeria,153,Carbon Capture,323,24796,4132,6199,12398
+ea34bd4a-c323-4c02-872e-96fe55735ced,CleanPower Ltd,Rise Fund,9700,4218,2.32,7,9,10,South Africa,74,Sustainable Agriculture,132,25043,4173,6260,12521
+fa58a16e-4e4b-4261-ad8a-e2340eec3648,CarbonZero Ltd,Orientation Fund,3040,4452,1.71,4,8,14,Kenya,230,Sustainable Agriculture,147,5596,932,1399,2798
+49390001-08b1-4e9d-9605-8b2f3a0ee0d3,BioEnergy Ltd,Infrastructure Fund,7360,1932,1.57,10,12,16,Kenya,294,Electric Mobility,258,9116,1519,2279,4558
+39a8fdcf-9eea-4f2c-9e78-5fcd936255c7,WindWorks Ltd,Partnership Fund,6110,4516,1.63,10,5,17,Kenya,217,Electric Mobility,430,28025,4670,7006,14012
+a485d4a9-4a7c-4828-9b76-67f0226b4e6d,HydroFlow Ltd,Transformation Fund,9380,4164,1.81,8,7,11,Bangladesh,190,Sustainable Agriculture,332,22608,3768,5652,11304
+70acb93b-da75-4af0-adc4-aa0c481439fe,EcoTech Ltd,Rise Fund,4470,2271,1.86,3,7,16,India,91,Renewable Energy,242,19275,3212,4818,9637
+e9fa9f4b-7bed-4abe-80ee-7bc2902df735,EarthRenew Ltd,Orientation Fund,1050,2122,2,10,12,10,Bangladesh,280,Water Management,302,26802,4467,6700,13401
+5694220c-1237-4e74-9183-c0eac58b4a12,HydroFlow Ltd,Infrastructure Fund,7010,1671,2.27,10,9,17,Thailand,179,Carbon Capture,353,15215,2535,3803,7607
+3a8ea564-24b3-430d-b30d-ef26706d1320,BioEnergy Ltd,Partnership Fund,2840,4743,2.22,3,12,15,Thailand,195,Sustainable Agriculture,446,5846,974,1461,2923
+ea566883-4c74-417b-8cf7-94097454f8d2,SolarWind Ltd,Transformation Fund,7080,628,1.8,5,14,13,South Africa,126,Sustainable Agriculture,220,12524,2087,3131,6262
+31b91887-5e72-4cca-bc12-44ef127f3ad5,EarthRenew Ltd,Rise Fund,1060,4969,2.2,9,9,14,Tanzania,241,Water Management,187,22300,3716,5575,11150
+802867e0-2253-4906-8d3a-82ce21c5d40a,SolarWind Ltd,Orientation Fund,6970,2787,1.94,7,10,17,Thailand,82,Renewable Energy,156,5556,926,1389,2778
+53064bb5-c2e9-43a1-926a-8ccbe93d89ba,CarbonZero Ltd,Infrastructure Fund,2520,772,1.89,3,15,10,Kenya,160,Carbon Capture,302,21988,3664,5497,10994
+805aa31b-7967-4323-a8e7-c4738ef7cfaf,HydroFlow Ltd,Partnership Fund,6560,3342,2.36,6,8,7,Tanzania,212,Electric Mobility,92,21602,3600,5400,10801
+54788adb-a3c6-4a4c-adf6-eb6d646d7207,GeoTherm Ltd,Transformation Fund,8530,1339,1.8,6,7,11,Nigeria,239,Smart Grid,342,10056,1676,2514,5028
